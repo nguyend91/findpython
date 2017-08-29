@@ -1,0 +1,9 @@
+# findpython
+When given the path of a directory, findpython will be able to identify all files Python.
+Once identified, Pylint will run to check for errors and enforces a coding standard.
+
+## Prerequisites
+
+	pip install python-magic
+	pip install pylint
+
