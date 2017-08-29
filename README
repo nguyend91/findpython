@@ -7,3 +7,6 @@ Once identified, Pylint will run to check for errors and enforces a coding stand
 	pip install python-magic
 	pip install pylint
 
+## Screenshots
+
+![Screenshot of findpython](image.png)
